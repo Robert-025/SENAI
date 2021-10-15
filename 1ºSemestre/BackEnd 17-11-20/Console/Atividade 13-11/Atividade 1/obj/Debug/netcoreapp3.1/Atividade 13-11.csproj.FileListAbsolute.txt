@@ -1,0 +1,13 @@
+C:\Users\10\Documents\Curso\BackEnd\Console\Atividade 13-11\bin\Debug\netcoreapp3.1\Atividade 13-11.exe
+C:\Users\10\Documents\Curso\BackEnd\Console\Atividade 13-11\bin\Debug\netcoreapp3.1\Atividade 13-11.deps.json
+C:\Users\10\Documents\Curso\BackEnd\Console\Atividade 13-11\bin\Debug\netcoreapp3.1\Atividade 13-11.runtimeconfig.json
+C:\Users\10\Documents\Curso\BackEnd\Console\Atividade 13-11\bin\Debug\netcoreapp3.1\Atividade 13-11.runtimeconfig.dev.json
+C:\Users\10\Documents\Curso\BackEnd\Console\Atividade 13-11\bin\Debug\netcoreapp3.1\Atividade 13-11.dll
+C:\Users\10\Documents\Curso\BackEnd\Console\Atividade 13-11\bin\Debug\netcoreapp3.1\Atividade 13-11.pdb
+C:\Users\10\Documents\Curso\BackEnd\Console\Atividade 13-11\obj\Debug\netcoreapp3.1\Atividade 13-11.csprojAssemblyReference.cache
+C:\Users\10\Documents\Curso\BackEnd\Console\Atividade 13-11\obj\Debug\netcoreapp3.1\Atividade 13-11.AssemblyInfoInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\Console\Atividade 13-11\obj\Debug\netcoreapp3.1\Atividade 13-11.AssemblyInfo.cs
+C:\Users\10\Documents\Curso\BackEnd\Console\Atividade 13-11\obj\Debug\netcoreapp3.1\Atividade 13-11.csproj.CoreCompileInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\Console\Atividade 13-11\obj\Debug\netcoreapp3.1\Atividade 13-11.dll
+C:\Users\10\Documents\Curso\BackEnd\Console\Atividade 13-11\obj\Debug\netcoreapp3.1\Atividade 13-11.pdb
+C:\Users\10\Documents\Curso\BackEnd\Console\Atividade 13-11\obj\Debug\netcoreapp3.1\Atividade 13-11.genruntimeconfig.cache

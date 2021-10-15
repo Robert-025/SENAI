@@ -1,0 +1,13 @@
+C:\Users\10\Documents\Curso\BackEnd\Personagens\bin\Debug\netcoreapp3.1\Personagens.exe
+C:\Users\10\Documents\Curso\BackEnd\Personagens\bin\Debug\netcoreapp3.1\Personagens.deps.json
+C:\Users\10\Documents\Curso\BackEnd\Personagens\bin\Debug\netcoreapp3.1\Personagens.runtimeconfig.json
+C:\Users\10\Documents\Curso\BackEnd\Personagens\bin\Debug\netcoreapp3.1\Personagens.runtimeconfig.dev.json
+C:\Users\10\Documents\Curso\BackEnd\Personagens\bin\Debug\netcoreapp3.1\Personagens.dll
+C:\Users\10\Documents\Curso\BackEnd\Personagens\bin\Debug\netcoreapp3.1\Personagens.pdb
+C:\Users\10\Documents\Curso\BackEnd\Personagens\obj\Debug\netcoreapp3.1\Personagens.csprojAssemblyReference.cache
+C:\Users\10\Documents\Curso\BackEnd\Personagens\obj\Debug\netcoreapp3.1\Personagens.AssemblyInfoInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\Personagens\obj\Debug\netcoreapp3.1\Personagens.AssemblyInfo.cs
+C:\Users\10\Documents\Curso\BackEnd\Personagens\obj\Debug\netcoreapp3.1\Personagens.csproj.CoreCompileInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\Personagens\obj\Debug\netcoreapp3.1\Personagens.dll
+C:\Users\10\Documents\Curso\BackEnd\Personagens\obj\Debug\netcoreapp3.1\Personagens.pdb
+C:\Users\10\Documents\Curso\BackEnd\Personagens\obj\Debug\netcoreapp3.1\Personagens.genruntimeconfig.cache

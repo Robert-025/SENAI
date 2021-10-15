@@ -1,0 +1,13 @@
+C:\Users\10\Documents\Curso\Back-end\Console\Media\bin\Debug\netcoreapp3.1\Media.exe
+C:\Users\10\Documents\Curso\Back-end\Console\Media\bin\Debug\netcoreapp3.1\Media.deps.json
+C:\Users\10\Documents\Curso\Back-end\Console\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.json
+C:\Users\10\Documents\Curso\Back-end\Console\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.dev.json
+C:\Users\10\Documents\Curso\Back-end\Console\Media\bin\Debug\netcoreapp3.1\Media.dll
+C:\Users\10\Documents\Curso\Back-end\Console\Media\bin\Debug\netcoreapp3.1\Media.pdb
+C:\Users\10\Documents\Curso\Back-end\Console\Media\obj\Debug\netcoreapp3.1\Media.csprojAssemblyReference.cache
+C:\Users\10\Documents\Curso\Back-end\Console\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfoInputs.cache
+C:\Users\10\Documents\Curso\Back-end\Console\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfo.cs
+C:\Users\10\Documents\Curso\Back-end\Console\Media\obj\Debug\netcoreapp3.1\Media.csproj.CoreCompileInputs.cache
+C:\Users\10\Documents\Curso\Back-end\Console\Media\obj\Debug\netcoreapp3.1\Media.dll
+C:\Users\10\Documents\Curso\Back-end\Console\Media\obj\Debug\netcoreapp3.1\Media.pdb
+C:\Users\10\Documents\Curso\Back-end\Console\Media\obj\Debug\netcoreapp3.1\Media.genruntimeconfig.cache

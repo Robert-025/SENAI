@@ -1,0 +1,397 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap');
+
+:root{
+    
+    --background: #000000;
+    --red: #c20000;
+    --blue: #001f70;
+    --bgnoticias: #1e1c21;
+    --gradient: linear-gradient(180deg, rgba(83, 83, 83, 0.5) 0%, #000000 100%);
+    
+    --font: 'Titillium Web', sans-serif;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    background-color: var(--background);
+    font-family: var(--font);
+}
+
+/* Início do cabeçalho */
+.topo{
+    width: 100%;
+    height: 5em;
+    /* background-color: aliceblue; */
+}
+.topo img{
+    max-width: 21.18em;
+}
+.content{
+    width: 95%;
+    max-width: 75em;
+    height: 100%;
+    /* background-color: aquamarine; */
+    margin: auto;
+}
+.flex-sb-centralizado{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu{
+    width: 100%;
+    max-width: 50em;
+}
+.menu ul{
+    list-style-type: none;
+}
+.menu a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    padding: 0.9em 0.4em;
+}
+.menu a:hover{
+    background-color: var(--blue);
+    text-shadow: 0 0 20px white;
+    text-decoration: underline;
+}
+
+#menu-bars{
+    display: none;
+}
+/* Fim do cabeçalho */
+
+/* Início do banner */
+.banner{
+    position: relative;
+}
+.banner-container{
+    width: 100%;
+    height: 37.5em;
+    /* background-color: rgba(238, 130, 238, 0.432); */
+    position: absolute;
+    top: 0;
+}
+.banner-content{
+    width: 100%;
+    height: 100%;
+    /* background-color: rgba(245, 245, 245, 0.63); */
+    margin: auto;
+    display: flex;
+    justify-content: flex-end;
+}
+.banner-content-2{
+    width: 80%;
+    height: 100%;
+    /* background-color: rgba(245, 245, 245, 0.63); */
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.banner-text{
+    width: 50%;
+    height: 100%;
+    /* background-color: rgba(13, 0, 128, 0.575); */
+    font-family: var(--font);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.banner-text h1{
+    font-size: 5.62em;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.banner-text span{
+    text-transform: none;
+}
+.banner-text p{
+    font-size: 1.87em;
+}
+.banner-text a{
+    font-size: 1.87em;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: var(--red);
+    padding: 0.7em 1.3em;
+    border-radius: 0.62em;
+    margin-top: 1.5em;
+}
+/* Fim do banner */
+
+/* Início dos jogos */
+.jogos{
+    width: 100%;
+    height: 7.5em;
+    /* background-color: aqua; */
+}
+.jogos ul{
+    width: 100%;
+    list-style-type: none;
+    /* background-color: blueviolet; */
+}
+.jogos ul a:hover img{
+    transition: 0.5s;
+    transform: scale(1.5);    
+}
+/* Fim dos jogos */
+
+/* Início sobre */
+.sobre{
+    width: 100%;
+    height: 31.25em;
+    background-color: var(--blue);
+    position: relative;
+}
+.sobre-angulacao{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.angulacao{
+    width: 100%;
+    height: 25em;
+    background-color: var(--background);
+
+    transform: skewY(-3deg);
+}
+.container-sobre{
+    color: white;
+
+    position: absolute;
+    top: 0;
+}
+.content-sobre{
+    width: 95%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.texto-sobre{
+    width: 40%;
+    text-align: justify;
+    font: var(--font);
+}
+.texto-sobre h2{
+    font-size: 2.187em;
+    font-weight: bolder;
+    margin-bottom: 1em;
+}
+.texto-sobre p{
+    font-size: 1.25em;
+}
+.content-sobre img{
+    max-width: 31.875em
+    var(--background)
+}
+/* Fim sobre */
+
+/* Início das partidas */
+.jogos{
+    width: 100%;
+    height: 7.5em;
+    align-items: center;
+    /* background-color: aqua; */
+}
+.jogos-aovivo, .jogos-embreve{
+    font-size: 1.5625em; /* 25px */
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.partida{
+    width: 9.5em;
+    height: auto;
+    /* background-color: violet; */
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1em;
+    flex-wrap: wrap;
+}
+.time1, .time2{
+    display: flex;
+    align-items: center;
+}
+.partida img{
+    width: 1.8em;
+}
+.time1 img{
+    margin-left: 0.5em;
+}
+.time2 img{
+    margin-right: 0.5em;
+}
+.linha{
+    height: 4.5em;
+    border: solid 1px white;
+}
+/* Fim das partidas */
+
+/* Início das notícias e próximas partidas */
+.bg-noticias{
+    width: 100%;
+    height: auto;
+    background-color: var(--bgnoticias);
+    padding-bottom: 1.5em;
+}
+.noticias{
+    width: 70%;
+    height: 90%;
+    /* background-color: lawngreen; */
+}
+.noticias h2, .card-proximos-jogos h2{
+    color: white;
+    margin: 1em 0;
+    font-size: 2.1875em;
+}
+.card-proximos-jogos{
+    width: 25%;
+    height: 90%;
+    color: #ffffff;
+    /* background-color: lisghtblue; */
+}
+.content-noticias{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.card-noticias{
+    width: 15em;
+    height: 23.125em;
+    background-image: var(--gradient);
+    color: white;
+    margin-bottom: 2.5em;
+    box-shadow: 0 0 0.625em #929292;
+}
+.card-noticias h3{
+    padding: 0.5em 0.7em;
+}
+.card-noticias p{
+    padding: 0 0.6em;
+}
+.proximos-jogos{
+    width: 90%;
+    height: auto;
+    background: var(--gradient);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 2.5em 0;
+}
+.proximas-partidas{
+    width: 100%;
+    height: 6.5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: 700;
+}
+.times{
+    width: 75%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.proximas-partidas img{
+    max-width: 2.5em;
+}
+.proximas-partidas > p{
+    margin-top: 1em;
+}
+.rodape{
+    width: 100%;
+    height: 14.375em;
+}
+.imagem-rodape{
+    width: 19.06em;
+}
+.links-rodape{
+    width: 33%;
+    display: flex;
+    justify-content: space-around;
+}
+.links{
+    color: #ffffff;
+}
+.links a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.links ul{
+    padding-left: 1.8em;
+}
+.sociais {
+    color: #ffffff;
+}
+.sociais h2{
+    font-size: 0.875em;
+    margin-bottom: 0.5em;
+}
+.sociais form{
+    display: flex;
+    align-items: center;
+}
+.sociais input[type="email"]{
+    width: 12.1825em;
+    height: 2.3125em;
+}
+.sociais input[type="email"]::placeholder{
+    color: #b8b3b3;
+    font-weight: 700;
+}
+.sociais input[type="submit"]{
+    width: 9.75em;
+    color: #ffffff;
+    background-color: #8326ef;
+    font-size: 1.1em;
+    font-weight: 700;
+    height: 1.75em;
+}
+.siga-nos{
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1em;
+}
+    
+    
+/* até 1199px */
+@media screen and (max-width:74.93em){
+
+}
+
+/* até 991px */
+@media screen and (max-width:61.93em){
+
+}
+
+/* até 767px */
+@media screen and (max-width:47.93em){
+
+}
+
+/* até 575px */
+@media screen and (max-width:35.93em){
+
+}

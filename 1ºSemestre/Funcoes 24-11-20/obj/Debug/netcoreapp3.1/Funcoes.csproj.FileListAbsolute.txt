@@ -1,0 +1,13 @@
+C:\Users\10\Documents\Curso\BackEnd\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.exe
+C:\Users\10\Documents\Curso\BackEnd\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.deps.json
+C:\Users\10\Documents\Curso\BackEnd\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.json
+C:\Users\10\Documents\Curso\BackEnd\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.dev.json
+C:\Users\10\Documents\Curso\BackEnd\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.dll
+C:\Users\10\Documents\Curso\BackEnd\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Users\10\Documents\Curso\BackEnd\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csprojAssemblyReference.cache
+C:\Users\10\Documents\Curso\BackEnd\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfoInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfo.cs
+C:\Users\10\Documents\Curso\BackEnd\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.dll
+C:\Users\10\Documents\Curso\BackEnd\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Users\10\Documents\Curso\BackEnd\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.exe
+C:\Users\dev\Desktop\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.deps.json
+C:\Users\dev\Desktop\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.runtimeconfig.json
+C:\Users\dev\Desktop\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.runtimeconfig.dev.json
+C:\Users\dev\Desktop\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.dll
+C:\Users\dev\Desktop\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.pdb
+C:\Users\dev\Desktop\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.AssemblyInfo.cs
+C:\Users\dev\Desktop\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.dll
+C:\Users\dev\Desktop\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.pdb
+C:\Users\dev\Desktop\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.genruntimeconfig.cache

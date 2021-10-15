@@ -1,0 +1,13 @@
+C:\Users\10\Documents\Curso\EstruturasDeRepeticao\bin\Debug\netcoreapp3.1\EstruturasDeRepeticao.exe
+C:\Users\10\Documents\Curso\EstruturasDeRepeticao\bin\Debug\netcoreapp3.1\EstruturasDeRepeticao.deps.json
+C:\Users\10\Documents\Curso\EstruturasDeRepeticao\bin\Debug\netcoreapp3.1\EstruturasDeRepeticao.runtimeconfig.json
+C:\Users\10\Documents\Curso\EstruturasDeRepeticao\bin\Debug\netcoreapp3.1\EstruturasDeRepeticao.runtimeconfig.dev.json
+C:\Users\10\Documents\Curso\EstruturasDeRepeticao\bin\Debug\netcoreapp3.1\EstruturasDeRepeticao.dll
+C:\Users\10\Documents\Curso\EstruturasDeRepeticao\bin\Debug\netcoreapp3.1\EstruturasDeRepeticao.pdb
+C:\Users\10\Documents\Curso\EstruturasDeRepeticao\obj\Debug\netcoreapp3.1\EstruturasDeRepeticao.csprojAssemblyReference.cache
+C:\Users\10\Documents\Curso\EstruturasDeRepeticao\obj\Debug\netcoreapp3.1\EstruturasDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\10\Documents\Curso\EstruturasDeRepeticao\obj\Debug\netcoreapp3.1\EstruturasDeRepeticao.AssemblyInfo.cs
+C:\Users\10\Documents\Curso\EstruturasDeRepeticao\obj\Debug\netcoreapp3.1\EstruturasDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\10\Documents\Curso\EstruturasDeRepeticao\obj\Debug\netcoreapp3.1\EstruturasDeRepeticao.dll
+C:\Users\10\Documents\Curso\EstruturasDeRepeticao\obj\Debug\netcoreapp3.1\EstruturasDeRepeticao.pdb
+C:\Users\10\Documents\Curso\EstruturasDeRepeticao\obj\Debug\netcoreapp3.1\EstruturasDeRepeticao.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\10\Documents\Curso\BackEnd\Vetores\bin\Debug\netcoreapp3.1\Vetores.exe
+C:\Users\10\Documents\Curso\BackEnd\Vetores\bin\Debug\netcoreapp3.1\Vetores.deps.json
+C:\Users\10\Documents\Curso\BackEnd\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.json
+C:\Users\10\Documents\Curso\BackEnd\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.dev.json
+C:\Users\10\Documents\Curso\BackEnd\Vetores\bin\Debug\netcoreapp3.1\Vetores.dll
+C:\Users\10\Documents\Curso\BackEnd\Vetores\bin\Debug\netcoreapp3.1\Vetores.pdb
+C:\Users\10\Documents\Curso\BackEnd\Vetores\obj\Debug\netcoreapp3.1\Vetores.csprojAssemblyReference.cache
+C:\Users\10\Documents\Curso\BackEnd\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfoInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfo.cs
+C:\Users\10\Documents\Curso\BackEnd\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
+C:\Users\10\Documents\Curso\BackEnd\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb
+C:\Users\10\Documents\Curso\BackEnd\Vetores\obj\Debug\netcoreapp3.1\Vetores.genruntimeconfig.cache

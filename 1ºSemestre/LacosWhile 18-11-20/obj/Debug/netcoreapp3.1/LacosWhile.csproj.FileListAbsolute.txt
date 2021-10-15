@@ -1,0 +1,13 @@
+C:\Users\10\Documents\Curso\LacosWhile\bin\Debug\netcoreapp3.1\LacosWhile.exe
+C:\Users\10\Documents\Curso\LacosWhile\bin\Debug\netcoreapp3.1\LacosWhile.deps.json
+C:\Users\10\Documents\Curso\LacosWhile\bin\Debug\netcoreapp3.1\LacosWhile.runtimeconfig.json
+C:\Users\10\Documents\Curso\LacosWhile\bin\Debug\netcoreapp3.1\LacosWhile.runtimeconfig.dev.json
+C:\Users\10\Documents\Curso\LacosWhile\bin\Debug\netcoreapp3.1\LacosWhile.dll
+C:\Users\10\Documents\Curso\LacosWhile\bin\Debug\netcoreapp3.1\LacosWhile.pdb
+C:\Users\10\Documents\Curso\LacosWhile\obj\Debug\netcoreapp3.1\LacosWhile.csprojAssemblyReference.cache
+C:\Users\10\Documents\Curso\LacosWhile\obj\Debug\netcoreapp3.1\LacosWhile.AssemblyInfoInputs.cache
+C:\Users\10\Documents\Curso\LacosWhile\obj\Debug\netcoreapp3.1\LacosWhile.AssemblyInfo.cs
+C:\Users\10\Documents\Curso\LacosWhile\obj\Debug\netcoreapp3.1\LacosWhile.csproj.CoreCompileInputs.cache
+C:\Users\10\Documents\Curso\LacosWhile\obj\Debug\netcoreapp3.1\LacosWhile.dll
+C:\Users\10\Documents\Curso\LacosWhile\obj\Debug\netcoreapp3.1\LacosWhile.pdb
+C:\Users\10\Documents\Curso\LacosWhile\obj\Debug\netcoreapp3.1\LacosWhile.genruntimeconfig.cache
